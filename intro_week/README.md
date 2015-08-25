@@ -9,11 +9,12 @@ We review the fundamentals of programming languages and give a more thorough int
 | 09.30 - 09.30 | Anders Søgaard: Where IT & Cognition could take you. |
 | 09.30 - 10.00 | How to turn on your computer, and why it should run Python. | 
 | 10.15 - 11.00 | How the computer understands code. |
-| 11.15 - 12.00 | Anatomy of a Python program. | 
-| 13.15 - 14.00 | Logic and control flow. |
-| 14.15 - 15.00 | Composition and abstraction. | 
-| 15.00 - 15.50 | Data types: Lists and strings| 
-| 16.00 - 17.00 | Data types: Dictionaries and sets. | 
+| 11.15 - 11.30 | Anatomy of a Python program. | 
+| 11.30 - 12.15 | Statements and assignments. | 
+| 13.15 - 13.45 | Control flow. |
+| 13.45 - 14.15 | Composition and abstraction | 
+| 14.30 - 15.00 | Data types: Lists and strings| 
+| 15.15 - 15.45 | Data types: Dictionaries and sets. | 
 
 ## Day 2
 

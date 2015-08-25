@@ -6,13 +6,14 @@ We review the fundamentals of programming languages and give a more thorough int
 
 | Time          | Subject |
 |:-----         |:--------|
-| 09.00 - 09.50 | Computer fundamentals. Why Python? | 
-| 10.00 - 10.50 | How the computer understands code. |
-| 11.00 - 11.50 | Anatomy of a Python program. | 
-| 13.00 - 13.50 | Logic and control flow. |
-| 14.00 - 14.50 | Composition and abstraction. | 
-| 14.00 - 14.50 | Built-in data structures I. | 
-| 15.00 - 15.50 | Built-in data structures II. | 
+| 09.30 - 09.30 | Anders Søgaard: Where IT & Cognition could take you. |
+| 09.30 - 10.00 | How to turn on your computer, and why it should run Python. | 
+| 10.15 - 11.00 | How the computer understands code. |
+| 11.15 - 12.00 | Anatomy of a Python program. | 
+| 13.15 - 14.00 | Logic and control flow. |
+| 14.15 - 15.00 | Composition and abstraction. | 
+| 15.00 - 15.50 | Data types: Lists and strings| 
+| 16.00 - 17.00 | Data types: Dictionaries and sets. | 
 
 ## Day 2
 
@@ -26,9 +27,9 @@ We recommend that you work in groups of two or three people.
 |:-----         |:--------| :-----|
 | 09.30 - 10.15 | Exercise I | Logic and control flow |
 | 10.30 - 11.15 | Exercise II | Lists and sets | 
-| 11.30 - 12.15 | Exercise III | Dictionaries |
+| 11.30 - 12.15 | Exercise III | Input and output |
 | 13.15 - 14.00 | Exercise IV | String manipulation |
-| 14.00 - 14.50 | Exercise V | Input and output |
+| 14.00 - 14.50 | Exercise V | Dictionaries |
 | 14.00 - 14.50 | Connect the dots | Graphics |
 | 15.00 - 15.50 | Drawing ferns | Formal grammars |
 

@@ -41,7 +41,7 @@ Probability theory
 
 | Time          | Subject |
 |:-----         |:--------|
-| 10.00 - 10.45 | Sample space. Pebble world and Python sets. Naive view of probability. | 
+| 10.00 - 10.45 | What are probabilities? Sample space, Pebble world, and Python sets. | 
 | 11.00 - 11.45 | Multiplication rule. Sampling with/without replacement. Binom coefficient | 
 | 13.00 - 13.45 | Non-naive view of probability. Axioms of probability. Inclusion-exclusion |
 | 14.00 - 14.45 | Conditional probability I | 

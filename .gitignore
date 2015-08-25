@@ -58,3 +58,5 @@ target/
 
 # JuPyter notebook
 .ipynb_checkpoints
+intro_week/Untitled.ipynb
+*.slides.html

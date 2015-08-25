@@ -1,0 +1,45 @@
+(Master 
+   The (Treasure gold) is buried
+   (AtPlace 
+     (RelativeLocation at) 
+     the (Landmark old oak) 
+    )
+)
+
+% Left-branching
+
+(Master
+	The (Treasure gold) is buried
+	(AtPlace
+		(AtPlace 
+			(AtPlace 
+				(RelativeLocation under)
+				the (Landmark old oak)
+			)
+			(RelativeLocation at)
+			the (Landmark mountain top)
+		)
+		(RelativeLocation in)
+		the (Landmark enchanted forest)
+	)
+)
+
+
+% Right-branching
+
+(Master
+	The (Treasure gold) is buried
+	(AtPlace 
+		(RelativeLocation under)
+		the (Landmark old oak)
+		(AtPlace
+			(RelativeLocation at)
+			the (Landmark mountain top)
+			(AtPlace 
+				(RelativeLocation in)
+				the (Landmark enchanted forest)
+			)
+		)
+
+	)
+)

@@ -6,7 +6,7 @@ We review the fundamentals of programming languages and give a more thorough int
 
 | Time          | Subject |
 |:-----         |:--------|
-| 09.30 - 09.30 | Anders Søgaard: Where IT & Cognition could take you. |
+| 09.00 - 09.30 | Anders Søgaard: Two roads diverged in a wood. |
 | 09.30 - 10.00 | How to turn on your computer, and why it should run Python. | 
 | 10.15 - 11.00 | How the computer understands code. |
 | 11.15 - 11.30 | Anatomy of a Python program. | 

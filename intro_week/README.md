@@ -18,6 +18,8 @@ We review the fundamentals of programming languages and give a more thorough int
 
 ## Day 2
 
+**Location:** 21.0.49 (building 21, ground floor, room 49)
+
 Exercise day. We’ll revisit all of yesterday’s subjects by posing problems where you have to apply your newly acquired knowledge. Some of the exercises might also require a bit of old-fashioned creativity to get right.
 
 The class instruction will be limited to about ten minutes in the beginning of each segment, which we spend introducing the problem sets and any new concepts that you might need. Teachers and TAs will be circling the room, always happy to offer help. 

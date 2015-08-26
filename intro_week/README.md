@@ -39,6 +39,8 @@ We recommend that you work in groups of two or three people.
 
 ## Day 3
 
+**Location:** 21.0.49 (building 21, ground floor, room 49)
+
 Probability theory
 
 | Time          | Subject |

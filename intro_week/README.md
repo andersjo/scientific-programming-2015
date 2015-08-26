@@ -45,8 +45,8 @@ Probability theory
 
 | Time          | Subject |
 |:-----         |:--------|
-| 10.00 - 10.45 | What are probabilities? Sample space, Pebble world, and Python sets. | 
-| 11.00 - 11.45 | Exercises: Sample spaces (card of cards). Complex sample spaces. | 
-| 13.00 - 13.45 | Conditional probability, tree diagrams, multiplication rule.  |
-| 14.00 - 14.45 | Exercises: Conditional probability, police brutality. | 
-| 15.00 - 15.45 | Outlook: probabilities for non-finite spaces, probability functions and distributions  | 
+| 09.00 - 09.45 | What are probabilities? Sample space, Pebble world, and Python sets. | 
+| 10.00 - 10.45 | Exercises: Sample spaces (card of cards). Complex sample spaces. | 
+| 12.00 - 12.45 | Conditional probability, tree diagrams, multiplication rule.  |
+| 13.00 - 13.45 | Exercises: Conditional probability, police brutality. | 
+

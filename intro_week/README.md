@@ -42,7 +42,7 @@ Probability theory
 | Time          | Subject |
 |:-----         |:--------|
 | 10.00 - 10.45 | What are probabilities? Sample space, Pebble world, and Python sets. | 
-| 11.00 - 11.45 | Multiplication rule. Sampling with/without replacement. Binom coefficient | 
-| 13.00 - 13.45 | Non-naive view of probability. Axioms of probability. Inclusion-exclusion |
-| 14.00 - 14.45 | Conditional probability I | 
-| 15.00 - 15.45 | Conditional probability II | 
+| 11.00 - 11.45 | Exercises: Sample spaces (card of cards). Complex sample spaces. | 
+| 13.00 - 13.45 | Conditional probability, tree diagrams, multiplication rule.  |
+| 14.00 - 14.45 | Exercises: Conditional probability, police brutality. | 
+| 15.00 - 15.45 | Outlook: probabilities for non-finite spaces, probability functions and distributions  | 

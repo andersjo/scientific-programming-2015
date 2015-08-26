@@ -8,13 +8,13 @@ We review the fundamentals of programming languages and give a more thorough int
 |:-----         |:--------|
 | 09.00 - 09.30 | Anders Søgaard: Two roads diverged in a wood. |
 | 09.30 - 10.00 | How to turn on your computer, and why it should run Python. | 
-| 10.15 - 11.00 | How the computer understands code. |
-| 11.15 - 11.30 | Anatomy of a Python program. | 
-| 11.30 - 12.15 | Statements and assignments. | 
-| 13.15 - 13.45 | Control flow. |
-| 13.45 - 14.15 | Composition and abstraction | 
-| 14.30 - 15.00 | Data types: Lists and strings| 
-| 15.15 - 15.45 | Data types: Dictionaries and sets. | 
+| 10.30 - 11.30 | How the computer understands code. |
+| 12.30 - 12.45 | Anatomy of a Python program. | 
+| 12.45 - 13.15 | Composition and abstraction. | 
+| 13.30 - 14.15 | Statements and assignments. |
+| 14.30 - 15.00 | Control flow. | 
+| 15.00 - 15.30 | Data types: Lists and strings| 
+| 15.30 - 16.00 | Data types: Dictionaries and sets. | 
 
 ## Day 2
 

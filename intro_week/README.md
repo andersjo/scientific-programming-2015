@@ -18,6 +18,8 @@ We review the fundamentals of programming languages and give a more thorough int
 
 ## Day 2
 
+**Location:** 21.0.49 (building 21, ground floor, room 49)
+
 Exercise day. We’ll revisit all of yesterday’s subjects by posing problems where you have to apply your newly acquired knowledge. Some of the exercises might also require a bit of old-fashioned creativity to get right.
 
 The class instruction will be limited to about ten minutes in the beginning of each segment, which we spend introducing the problem sets and any new concepts that you might need. Teachers and TAs will be circling the room, always happy to offer help. 
@@ -37,12 +39,14 @@ We recommend that you work in groups of two or three people.
 
 ## Day 3
 
+**Location:** 21.0.49 (building 21, ground floor, room 49)
+
 Probability theory
 
 | Time          | Subject |
 |:-----         |:--------|
-| 10.00 - 10.45 | What are probabilities? Sample space, Pebble world, and Python sets. | 
-| 11.00 - 11.45 | Exercises: Sample spaces (card of cards). Complex sample spaces. | 
-| 13.00 - 13.45 | Conditional probability, tree diagrams, multiplication rule.  |
-| 14.00 - 14.45 | Exercises: Conditional probability, police brutality. | 
-| 15.00 - 15.45 | Outlook: probabilities for non-finite spaces, probability functions and distributions  | 
+| 09.00 - 09.45 | What are probabilities? Sample space, Pebble world, and Python sets. | 
+| 10.00 - 10.45 | Exercises: Sample spaces (card of cards). Complex sample spaces. | 
+| 12.00 - 12.45 | Conditional probability, tree diagrams, multiplication rule.  |
+| 13.00 - 13.45 | Exercises: Conditional probability, police brutality. | 
+| 14.00 onwards | Intro-beer with IT & Cognition students in front of 21.1.47 (bring coins: 5s,10s etc) | 

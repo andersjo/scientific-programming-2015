@@ -49,4 +49,4 @@ Probability theory
 | 10.00 - 10.45 | Exercises: Sample spaces (card of cards). Complex sample spaces. | 
 | 12.00 - 12.45 | Conditional probability, tree diagrams, multiplication rule.  |
 | 13.00 - 13.45 | Exercises: Conditional probability, police brutality. | 
-| 14.00 onwards | Intro-beer with IT & Cognition students in front of 21.1.47 (bring coins: 5s,10s etc) | 
+| 14.00  | Intro-beer in front of 21.1.47 (bring coins: 5s,10s etc) | 

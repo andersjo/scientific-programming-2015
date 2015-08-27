@@ -26,13 +26,13 @@ We recommend that you work in groups of two or three people.
 
 | Time          | Subject | Skills | 
 |:-----         |:--------| :-----|
-| 09.30 - 10.15 | Exercise I | Logic and control flow |
-| 10.30 - 11.15 | Exercise II | Lists and sets | 
-| 11.30 - 12.15 | Exercise III | Input and output |
-| 13.15 - 14.00 | Exercise IV | String manipulation |
-| 14.00 - 14.50 | Exercise V | Dictionaries |
-| 14.00 - 14.50 | Connect the dots | Graphics |
-| 15.00 - 15.50 | Drawing ferns | Formal grammars |
+| 09.30 - 10.15 | Data types: List and strings. | - |
+| 10.30 - 11.15 | Exercise I | Logic and control flow |
+| 11.15 - 11.45 | Exercise II | Lists | 
+| 12.45 - 13.15 | Data types: Sets and dictionaries | - | 
+| 13.30 - 14.15 | Exercise III | String manipulation |
+| 14.30 - 15.00 | Exercise IV | Dictionaries and sets |
+| 15.10 - 16.00 | Connect the dots | All of the above |
 
 
 ## Day 3

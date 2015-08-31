@@ -20,7 +20,7 @@
 - Grouping data.
 - Intuition about significance testing
 
-### Visualing data
+### Visualizing data
 
 *The eye is by far our most powerful tool of analysis.*
 
@@ -54,7 +54,6 @@
 
 - Files and the file system. 
 - The philosophy of Unix.
-- 
 
 ### Images I
 

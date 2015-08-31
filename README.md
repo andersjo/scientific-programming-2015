@@ -4,7 +4,7 @@
 
 ### Computational thinking
 
-*If your tool is a computer, everything begins to look like a list of numbers.*.
+*If your tool is a computer, everything begins to look like a list of numbers.*
 
 - Recap of the syntax of Python. 
 - How to start solving a problem using an algorithm.
@@ -20,7 +20,7 @@
 - Grouping data.
 - Intuition about significance testing
 
-### Visualing data
+### Visualizing data
 
 *The eye is by far our most powerful tool of analysis.*
 
@@ -39,11 +39,15 @@
 
 ### Supervised learning I
 
+*Why computers can (theoretically) learn anything.*
+
 - How is learning possible? 
 - Smoke detectors and the linear model.
 - Implement the perceptron, a simple learning classification algorithm.
 
 ### Supervised learning II
+
+*Build a better perceptron*
 
 - Probabalistic models: Logistic regression.
 - Energy-based learning, a general model. 
@@ -54,19 +58,25 @@
 
 - Files and the file system. 
 - The philosophy of Unix.
-- 
+- Writing Python scripts and executing them in the shell
 
 ### Images I
+
+*Bob Ross wants to remind you that there are no mistakes in painting, only happy accidents.*
 
 - Painting with numbers.
 - Morphological operations.
 
 ### Images II
 
+*How to recognize trees from quite far away.*
+
 - Identifying and labeling parts of images.
 - Going from continous coordinate spaces to pixel spaces.
 
 ### Graphs I
+
+*Graphs are everywhere!*
 
 - Two strategies of unguided graph search: depth-first, breadth-first. 
 - Using heuristics to cut corners: A\*-search.
@@ -74,8 +84,8 @@
 
 ### Graphs II
 
-- Graphs as markov chains. 
-- Random walks. 
+- Graphs as Markov chains. 
+- Random walks, or what a drunken walk can find out. 
 - Analysis of social graph data sets: data from social networks.
 
 ### Information Retrieval
@@ -86,6 +96,8 @@
 - Auto-completion using the Trie data structure.
 
 ### Neural networks I
+
+*Perceptrons are back, and they brought their friends.*
 
 - Feed-forward neural networks.
 - Building blocks: layers, activation functions.

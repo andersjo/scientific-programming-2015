@@ -20,6 +20,8 @@
 - Grouping data.
 - Intuition about significance testing
 
+Homework I out.
+
 ### Visualizing data
 
 *The eye is by far our most powerful tool of analysis.*
@@ -36,6 +38,7 @@
 - How computers represent numbers. 
 - Basic operations on vectors and matrices.
 
+Homework I due.
 
 ### Supervised learning I
 
@@ -44,6 +47,8 @@
 - How is learning possible? 
 - Smoke detectors and the linear model.
 - Implement the perceptron, a simple learning classification algorithm.
+
+Homework II out.
 
 ### Supervised learning II
 
@@ -60,12 +65,16 @@
 - The philosophy of Unix.
 - Writing Python scripts and executing them in the shell
 
+Homework II due.
+
 ### Images I
 
 *Bob Ross wants to remind you that there are no mistakes in painting, only happy accidents.*
 
 - Painting with numbers.
 - Morphological operations.
+
+Homework III out.
 
 ### Images II
 
@@ -82,11 +91,15 @@
 - Using heuristics to cut corners: A\*-search.
 - Graph search and finding your way on a map.
 
+Homework III due.
+
 ### Graphs II
 
 - Graphs as Markov chains. 
 - Random walks, or what a drunken walk can find out. 
 - Analysis of social graph data sets: data from social networks.
+
+Homework IV out.
 
 ### Information Retrieval
 
@@ -103,6 +116,10 @@
 - Building blocks: layers, activation functions.
 - Back-propagation.
 
+Homework IV due.
+
 ### Neural networks II
 
 - Clever hacks using neural networks: auto-encoders, word2vec.
+
+Homework V due.

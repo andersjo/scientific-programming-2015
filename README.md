@@ -122,4 +122,4 @@ Homework IV due.
 
 - Clever hacks using neural networks: auto-encoders, word2vec.
 
-Homework V due.
+Homework V out.

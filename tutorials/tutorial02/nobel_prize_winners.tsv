@@ -1,0 +1,830 @@
+Year	Domain	Name	Nationality	Gender
+2009	Physics	Charles K. Kao	China	Male
+2009	Physics	Willard S. Boyle	USA	Male
+2009	Physics	George E. Smith	USA	Male
+2009	Chemistry	Venkatraman Ramakrishnan	UK	Male
+2009	Chemistry	Thomas A. Steitz	USA	Male
+2009	Chemistry	Ada E. Yonath	Israel	Female
+2009	Medicine	Elizabeth Blackburn	USA	Female
+2009	Medicine	Carol W. Greider	USA	Female
+2009	Medicine	Jack W. Szostak	USA	Male
+2009	Literature	Herta Müller	Germany	Female
+2009	Peace	Barack Obama	USA	Male
+2009	Economics	Elinor Ostrom	USA	Female
+2009	Economics	Oliver E. Williamson	USA	Male
+2008	Chemistry	Martin Chalfie	USA	Male
+2008	Chemistry	Osamu Shimomura	USA	Male
+2008	Chemistry	Roger Y. Tsien	USA	Male
+2008	Economics	Paul Krugman	USA	Male
+2008	Literature	Jean-Marie Gustave Le Clézio	France	Male
+2008	Medicine	Françoise Barré-Sinoussi	France	Female
+2008	Medicine	Luc Montagnier	France	Male
+2008	Medicine	Harald zur Hausen	Germany	Male
+2008	Peace	Martti Ahtisaari	Finland	Male
+2008	Physics	Makoto Kobayashi	Japan	Male
+2008	Physics	Toshihide Maskawa	Japan	Male
+2008	Physics	Yoichiro Nambu	USA	Male
+2007	Chemistry	 Gerhard Ertl 	Germany	Male
+2007	Economics	 Leonid Hurwicz 	USA	Male
+2007	Economics	 Eric S. Maskin 	USA	Male
+2007	Economics	 Roger B. Myerson 	USA	Male
+2007	Literature	 Doris Lessing 	UK	Female
+2007	Medicine	 Mario R. Capecchi 	USA	Male
+2007	Medicine	 Sir Martin J. Evans 	UK	Male
+2007	Medicine	 Oliver Smithies 	USA	Male
+2007	Peace	 Intergovernmental Panel on Climate Change 	Switzerland	Organization
+2007	Peace	 Al Gore 	USA	Male
+2007	Physics	 Albert Fert 	France	Male
+2007	Physics	 Peter Grunberg 	Germany	Male
+2006	Chemistry	 Roger D. Kornberg 	USA	Male
+2006	Economics	 Edmund S. Phelps 	USA	Male
+2006	Literature	 Orhan Pamuk 	Turkey	Male
+2006	Medicine	 Andrew Z. Fire 	USA	Male
+2006	Medicine	 Craig C. Mello 	USA	Male
+2006	Peace	 Grameen Bank 	Bangladesh	Organization
+2006	Peace	 Muhammad Yunus 	Bangladesh	Male
+2006	Physics	 John C. Mather 	USA	Male
+2006	Physics	 George F. Smoot 	USA	Male
+2005	Chemistry	 Yves Chauvin 	France	Male
+2005	Chemistry	 Robert H. Grubbs 	USA	Male
+2005	Chemistry	 Richard R. Schrock 	USA	Male
+2005	Economics	 Robert J. Aumann 	Israel, USA	Male
+2005	Economics	 Thomas C. Schelling 	USA	Male
+2005	Literature	 Harold Pinter 	UK	Male
+2005	Medicine	 Barry J. Marshall 	Australia	Male
+2005	Medicine	 J. Robin Warren 	Australia	Male
+2005	Peace	 International Atomic Energy Agency 	Austria	Organization
+2005	Peace	 Mohamed ElBaradei 	Egypt	Male
+2005	Physics	 Roy J. Glauber 	USA	Male
+2005	Physics	 John L. Hall 	USA	Male
+2005	Physics	 Theodor W. Hansch 	Germany	Male
+2004	Chemistry	 Aaron Ciechanover 	Israel	Male
+2004	Chemistry	 Avram Hershko 	Israel	Male
+2004	Chemistry	 Irwin Rose 	USA	Male
+2004	Economics	 Finn E. Kydland 	Norway	Male
+2004	Economics	 Edward C. Prescott 	USA	Male
+2004	Literature	 Elfriede Jelinek 	Austria	Female
+2004	Medicine	 Richard Axel 	USA	Male
+2004	Medicine	 Linda B. Buck 	USA	Female
+2004	Peace	 Wangari Maathai 	Kenya	Female
+2004	Physics	 David J. Gross 	USA	Male
+2004	Physics	 H. David Politzer 	USA	Male
+2004	Physics	 Frank Wilczek 	USA	Male
+2003	Chemistry	 Peter Agre 	USA	Male
+2003	Chemistry	 Roderick MacKinnon 	USA	Male
+2003	Economics	 Robert F. Engle III 	USA	Male
+2003	Economics	 Clive W.J. Granger 	UK	Male
+2003	Literature	 J. M. Coetzee 	South Africa	Male
+2003	Medicine	 Paul C. Lauterbur 	USA	Male
+2003	Medicine	 Sir Peter Mansfield 	UK	Male
+2003	Peace	 Shirin Ebadi 	Iran	Female
+2003	Physics	 Alexei A. Abrikosov 	USA, Russia	Male
+2003	Physics	 Vitaly L. Ginzburg 	Russia	Male
+2003	Physics	 Anthony J. Leggett 	UK, USA	Male
+2002	Chemistry	 John B. Fenn 	USA	Male
+2002	Chemistry	 Koichi Tanaka 	Japan	Male
+2002	Chemistry	 Kurt Wuthrich 	Switzerland	Male
+2002	Economics	 Daniel Kahneman 	USA, Israel	Male
+2002	Economics	 Vernon L. Smith 	USA	Male
+2002	Literature	 Imre Kertesz 	Hungary	Male
+2002	Medicine	 Sydney Brenner 	UK	Male
+2002	Medicine	 H. Robert Horvitz 	USA	Male
+2002	Medicine	 John E. Sulston 	UK	Male
+2002	Peace	 Jimmy Carter 	USA	Male
+2002	Physics	 Raymond Davis Jr. 	USA	Male
+2002	Physics	 Riccardo Giacconi 	USA	Male
+2002	Physics	 Masatoshi Koshiba 	Japan	Male
+2001	Chemistry	 William S. Knowles 	USA	Male
+2001	Chemistry	 Ryoji Noyori 	Japan	Male
+2001	Chemistry	 K. Barry Sharpless 	USA	Male
+2001	Economics	 George A. Akerlof 	USA	Male
+2001	Economics	 A. Michael Spence 	USA	Male
+2001	Economics	 Joseph E. Stiglitz 	USA	Male
+2001	Literature	 V. S. Naipaul 	UK	Male
+2001	Medicine	 Leland H. Hartwell 	USA	Male
+2001	Medicine	 Tim Hunt 	UK	Male
+2001	Medicine	 Sir Paul Nurse 	UK	Male
+2001	Peace	 United Nations 	USA	Organization
+2001	Peace	 Kofi Annan 	Ghana	Male
+2001	Physics	 Eric A. Cornell 	USA	Male
+2001	Physics	 Wolfgang Ketterle 	Germany	Male
+2001	Physics	 Carl E. Wieman 	USA	Male
+2000	Chemistry	 Alan Heeger 	USA	Male
+2000	Chemistry	 Alan G. MacDiarmid 	USA, New Zealand	Male
+2000	Chemistry	 Hideki Shirakawa 	Japan	Male
+2000	Economics	 James J. Heckman 	USA	Male
+2000	Economics	 Daniel L. McFadden 	USA	Male
+2000	Literature	 Gao Xingjian 	France	Male
+2000	Medicine	 Arvid Carlsson 	Sweden	Male
+2000	Medicine	 Paul Greengard 	USA	Male
+2000	Medicine	 Eric R. Kandel 	USA	Male
+2000	Peace	 Kim Dae-jung 	South Korea	Male
+2000	Physics	 Zhores I. Alferov 	Russia	Male
+2000	Physics	 Jack S. Kilby 	USA	Male
+2000	Physics	 Herbert Kroemer 	Germany	Male
+1999	Chemistry	 Ahmed Zewail 	Egypt, USA	Male
+1999	Economics	 Robert A. Mundell 	Canada	Male
+1999	Literature	 Gunter Grass 	Germany	Male
+1999	Medicine	 Gunter Blobel 	USA	Male
+1999	Peace	 Medecins Sans Frontieres 	Switzerland	Organization
+1999	Physics	 Gerardus 't Hooft 	Netherlands	Male
+1999	Physics	 Martinus J.G. Veltman 	Netherlands	Male
+1998	Chemistry	 Walter Kohn 	USA	Male
+1998	Chemistry	 John Pople 	UK	Male
+1998	Economics	 Amartya Sen 	India	Male
+1998	Literature	 Jose Saramago 	Portugal	Male
+1998	Medicine	 Robert F. Furchgott 	USA	Male
+1998	Medicine	 Louis J. Ignarro 	USA	Male
+1998	Medicine	 Ferid Murad 	USA	Male
+1998	Peace	 John Hume 	UK	Male
+1998	Peace	 David Trimble 	UK	Male
+1998	Physics	 Robert B. Laughlin 	USA	Male
+1998	Physics	 Horst L. Stormer 	Germany	Male
+1998	Physics	 Daniel C. Tsui 	USA	Male
+1997	Chemistry	 Paul D. Boyer 	USA	Male
+1997	Chemistry	 Jens C. Skou 	Denmark	Male
+1997	Chemistry	 John E. Walker 	UK	Male
+1997	Economics	 Robert C. Merton 	USA	Male
+1997	Economics	 Myron S. Scholes 	USA	Male
+1997	Literature	 Dario Fo 	Italy	Male
+1997	Medicine	 Stanley B. Prusiner 	USA	Male
+1997	Peace	 International Campaign to Ban Landmines 	USA	Organization
+1997	Peace	 Jody Williams 	USA	Female
+1997	Physics	 Steven Chu 	USA	Male
+1997	Physics	 Claude Cohen-Tannoudji 	France	Male
+1997	Physics	 William D. Phillips 	USA	Male
+1996	Chemistry	 Robert F. Curl Jr. 	USA	Male
+1996	Chemistry	 Sir Harold Kroto 	UK	Male
+1996	Chemistry	 Richard E. Smalley 	USA	Male
+1996	Economics	 James A. Mirrlees 	UK	Male
+1996	Economics	 William Vickrey 	USA	Male
+1996	Literature	 Wislawa Szymborska 	Poland	Female
+1996	Medicine	 Peter C. Doherty 	Australia	Male
+1996	Medicine	 Rolf M. Zinkernagel 	Switzerland	Male
+1996	Peace	 Carlos Filipe Ximenes Belo 	East Timor	Male
+1996	Peace	 Jose Ramos-Horta 	East Timor	Male
+1996	Physics	 David M. Lee 	USA	Male
+1996	Physics	 Douglas D. Osheroff 	USA	Male
+1996	Physics	 Robert C. Richardson 	USA	Male
+1995	Chemistry	 Paul J. Crutzen 	Netherlands	Male
+1995	Chemistry	 Mario J. Molina 	USA	Male
+1995	Chemistry	 F. Sherwood Rowland 	USA	Male
+1995	Economics	 Robert E. Lucas Jr. 	USA	Male
+1995	Literature	 Seamus Heaney 	Ireland	Male
+1995	Medicine	 Edward B. Lewis 	USA	Male
+1995	Medicine	 Christiane Nusslein-Volhard 	Germany	Female
+1995	Medicine	 Eric F. Wieschaus 	USA	Male
+1995	Peace	 Pugwash Conferences on Science and World Affairs 	Canada	Organization
+1995	Peace	 Joseph Rotblat 	UK	Male
+1995	Physics	 Martin L. Perl 	USA	Male
+1995	Physics	 Frederick Reines 	USA	Male
+1994	Chemistry	 George A. Olah 	USA	Male
+1994	Economics	 John C. Harsanyi 	USA	Male
+1994	Economics	 John F. Nash Jr. 	USA	Male
+1994	Economics	 Reinhard Selten 	Germany	Male
+1994	Literature	 Kenzaburo Oe 	Japan	Male
+1994	Medicine	 Alfred G. Gilman 	USA	Male
+1994	Medicine	 Martin Rodbell 	USA	Male
+1994	Peace	 Yasser Arafat 	Palestine	Male
+1994	Peace	 Shimon Peres 	Israel	Male
+1994	Peace	 Yitzhak Rabin 	Israel	Male
+1994	Physics	 Bertram N. Brockhouse 	Canada	Male
+1994	Physics	 Clifford G. Shull 	USA	Male
+1993	Chemistry	 Kary B. Mullis 	USA	Male
+1993	Chemistry	 Michael Smith 	Canada	Male
+1993	Economics	 Robert W. Fogel 	USA	Male
+1993	Economics	 Douglass C. North 	USA	Male
+1993	Literature	 Toni Morrison 	USA	Female
+1993	Medicine	 Richard J. Roberts 	UK	Male
+1993	Medicine	 Phillip A. Sharp 	USA	Male
+1993	Peace	 F.W. de Klerk 	South Africa	Male
+1993	Peace	 Nelson Mandela 	South Africa	Male
+1993	Physics	 Russell A. Hulse 	USA	Male
+1993	Physics	 Joseph H. Taylor Jr. 	USA	Male
+1992	Chemistry	 Rudolph A. Marcus 	USA	Male
+1992	Economics	 Gary S. Becker 	USA	Male
+1992	Literature	 Derek Walcott 	Saint Lucia	Male
+1992	Medicine	 Edmond H. Fischer 	Switzerland, USA	Male
+1992	Medicine	 Edwin G. Krebs 	USA	Male
+1992	Peace	 Rigoberta Menchu Tum 	Guatemala	Female
+1992	Physics	 Georges Charpak 	France	Male
+1991	Chemistry	 Richard R. Ernst 	Switzerland	Male
+1991	Economics	 Ronald H. Coase 	UK	Male
+1991	Literature	 Nadine Gordimer 	South Africa	Female
+1991	Medicine	 Erwin Neher 	Germany	Male
+1991	Medicine	 Bert Sakmann 	Germany	Male
+1991	Peace	 Aung San Suu Kyi 	Burma	Female
+1991	Physics	 Pierre-Gilles de Gennes 	France	Male
+1990	Chemistry	 Elias James Corey 	USA	Male
+1990	Economics	 Harry M. Markowitz 	USA	Male
+1990	Economics	 Merton H. Miller 	USA	Male
+1990	Economics	 William F. Sharpe 	USA	Male
+1990	Literature	 Octavio Paz 	Mexico	Male
+1990	Medicine	 Joseph E. Murray 	USA	Male
+1990	Medicine	 E. Donnall Thomas 	USA	Male
+1990	Peace	 Mikhail Gorbachev 	USSR	Male
+1990	Physics	 Jerome I. Friedman 	USA	Male
+1990	Physics	 Henry W. Kendall 	USA	Male
+1990	Physics	 Richard E. Taylor 	Canada	Male
+1989	Chemistry	 Sidney Altman 	Canada, USA	Male
+1989	Chemistry	 Thomas R. Cech 	USA	Male
+1989	Economics	 Trygve Haavelmo 	Norway	Male
+1989	Literature	 Camilo Jose Cela 	Spain	Male
+1989	Medicine	 J. Michael Bishop 	USA	Male
+1989	Medicine	 Harold E. Varmus 	USA	Male
+1989	Peace	 The 14th Dalai Lama 	Tibet	Male
+1989	Physics	 Hans G. Dehmelt 	USA	Male
+1989	Physics	 Wolfgang Paul 	Germany	Male
+1989	Physics	 Norman F. Ramsey 	USA	Male
+1988	Chemistry	 Johann Deisenhofer 	Germany	Male
+1988	Chemistry	 Robert Huber 	Germany	Male
+1988	Chemistry	 Hartmut Michel 	Germany	Male
+1988	Economics	 Maurice Allais 	France	Male
+1988	Literature	 Naguib Mahfouz 	Egypt	Male
+1988	Medicine	 Sir James W. Black 	UK	Male
+1988	Medicine	 Gertrude B. Elion 	USA	Female
+1988	Medicine	 George H. Hitchings 	USA	Male
+1988	Peace	 United Nations Peacekeeping Forces 	USA	Organization
+1988	Physics	 Leon M. Lederman 	USA	Male
+1988	Physics	 Melvin Schwartz 	USA	Male
+1988	Physics	 Jack Steinberger 	USA	Male
+1987	Chemistry	 Donald J. Cram 	USA	Male
+1987	Chemistry	 Jean-Marie Lehn 	France	Male
+1987	Chemistry	 Charles J. Pedersen 	USA	Male
+1987	Economics	 Robert M. Solow 	USA	Male
+1987	Literature	 Joseph Brodsky 	USA	Male
+1987	Medicine	 Susumu Tonegawa 	Japan	Male
+1987	Peace	 Oscar Arias Sanchez 	Costa Rica	Male
+1987	Physics	 J. Georg Bednorz 	Germany	Male
+1987	Physics	 K. Alex Muller 	Switzerland	Male
+1986	Chemistry	 Dudley R. Herschbach 	USA	Male
+1986	Chemistry	 Yuan T. Lee 	USA	Male
+1986	Chemistry	 John C. Polanyi 	USA	Male
+1986	Economics	 James M. Buchanan Jr. 	USA	Male
+1986	Literature	 Wole Soyinka 	Nigeria	Male
+1986	Medicine	 Stanley Cohen 	USA	Male
+1986	Medicine	 Rita Levi-Montalcini 	Italy, USA	Female
+1986	Peace	 Elie Wiesel 	USA	Male
+1986	Physics	 Gerd Binnig 	Germany	Male
+1986	Physics	 Heinrich Rohrer 	Switzerland	Male
+1986	Physics	 Ernst Ruska 	Germany	Male
+1985	Chemistry	 Herbert A. Hauptman 	USA	Male
+1985	Chemistry	 Jerome Karle 	USA	Male
+1985	Economics	 Franco Modigliani 	USA	Male
+1985	Literature	 Claude Simon 	France	Male
+1985	Medicine	 Michael S. Brown 	USA	Male
+1985	Medicine	 Joseph L. Goldstein 	USA	Male
+1985	Peace	 International Physicians for the Prevention of Nuclear War 	USA	Organization
+1985	Physics	 Klaus von Klitzing 	Germany	Male
+1984	Chemistry	 Bruce Merrifield 	USA	Male
+1984	Economics	 Richard Stone 	UK	Male
+1984	Literature	 Jaroslav Seifert 	Czechoslovakia	Male
+1984	Medicine	 Niels K. Jerne 	Denmark	Male
+1984	Medicine	 Georges J.F. Kohler 	Germany	Male
+1984	Medicine	 Cesar Milstein 	Argentina, UK	Male
+1984	Peace	 Desmond Tutu 	South Africa	Male
+1984	Physics	 Carlo Rubbia 	Italy	Male
+1984	Physics	 Simon van der Meer 	Netherlands	Male
+1983	Chemistry	 Henry Taube 	USA	Male
+1983	Economics	 Gerard Debreu 	USA	Male
+1983	Literature	 William Golding 	UK	Male
+1983	Medicine	 Barbara McClintock 	USA	Female
+1983	Peace	 Lech Walesa 	Poland	Male
+1983	Physics	 Subramanyan Chandrasekhar 	USA	Male
+1983	Physics	 William A. Fowler 	USA	Male
+1982	Chemistry	 Aaron Klug 	UK	Male
+1982	Economics	 George J. Stigler 	USA	Male
+1982	Literature	 Gabriel Garcia Marquez 	Colombia	Male
+1982	Medicine	 Sune K. Bergstrom 	Sweden	Male
+1982	Medicine	 Bengt I. Samuelsson 	Sweden	Male
+1982	Medicine	 John R. Vane 	UK	Male
+1982	Peace	 Alfonso Garcia Robles 	Mexico	Male
+1982	Peace	 Alva Myrdal 	Sweden	Female
+1982	Physics	 Kenneth G. Wilson 	USA	Male
+1981	Chemistry	 Kenichi Fukui 	Japan	Male
+1981	Chemistry	 Roald Hoffmann 	USA	Male
+1981	Economics	 James Tobin 	USA	Male
+1981	Literature	 Elias Canetti 	UK	Male
+1981	Medicine	 David H. Hubel 	USA	Male
+1981	Medicine	 Roger W. Sperry 	USA	Male
+1981	Medicine	 Torsten N. Wiesel 	Sweden	Male
+1981	Peace	 Office of the United Nations High Commissioner for Refugees 	Switzerland	Organization
+1981	Physics	 Nicolaas Bloembergen 	USA	Male
+1981	Physics	 Arthur L. Schawlow 	USA	Male
+1981	Physics	 Kai M. Siegbahn 	Sweden	Male
+1980	Chemistry	 Paul Berg 	USA	Male
+1980	Chemistry	 Walter Gilbert 	USA	Male
+1980	Chemistry	 Frederick Sanger 	UK	Male
+1980	Economics	 Lawrence R. Klein 	USA	Male
+1980	Literature	 Czeslaw Milosz 	Poland, USA	Male
+1980	Medicine	 Baruj Benacerraf 	USA	Male
+1980	Medicine	 Jean Dausset 	France	Male
+1980	Medicine	 George D. Snell 	USA	Male
+1980	Peace	 Adolfo Perez Esquivel 	Argentina	Male
+1980	Physics	 James Cronin 	USA	Male
+1980	Physics	 Val Fitch 	USA	Male
+1979	Chemistry	 Herbert C. Brown 	USA	Male
+1979	Chemistry	 Georg Wittig 	Germany	Male
+1979	Economics	 Sir Arthur Lewis 	UK	Male
+1979	Economics	 Theodore W. Schultz 	USA	Male
+1979	Literature	 Odysseus Elytis 	Greece	Male
+1979	Medicine	 Allan M. Cormack 	USA	Male
+1979	Medicine	 Godfrey N. Hounsfield 	UK	Male
+1979	Peace	 Mother Teresa 	India	Female
+1979	Physics	 Sheldon Glashow 	USA	Male
+1979	Physics	 Abdus Salam 	Pakistan	Male
+1979	Physics	 Steven Weinberg 	USA	Male
+1978	Chemistry	 Peter Mitchell 	UK	Male
+1978	Economics	 Herbert A. Simon 	USA	Male
+1978	Literature	 Isaac Bashevis Singer 	USA	Male
+1978	Medicine	 Werner Arber 	USA	Male
+1978	Medicine	 Daniel Nathans 	USA	Male
+1978	Medicine	 Hamilton O. Smith 	USA	Male
+1978	Peace	 Anwar al-Sadat 	Egypt	Male
+1978	Peace	 Menachem Begin 	Israel	Male
+1978	Physics	 Pyotr Kapitsa 	USA	Male
+1978	Physics	 Arno Penzias 	USA	Male
+1978	Physics	 Robert Woodrow Wilson 	USA	Male
+1977	Chemistry	 Ilya Prigogine 	Belgium	Male
+1977	Economics	 James E. Meade 	UK	Male
+1977	Economics	 Bertil Ohlin 	Sweden	Male
+1977	Literature	 Vicente Aleixandre 	Spain	Male
+1977	Medicine	 Roger Guillemin 	USA	Male
+1977	Medicine	 Andrew V. Schally 	USA	Male
+1977	Medicine	 Rosalyn Yalow 	USA	Female
+1977	Peace	 Amnesty International 	UK	Organization
+1977	Physics	 Philip W. Anderson 	USA	Male
+1977	Physics	 Sir Nevill F. Mott 	UK	Male
+1977	Physics	 John H. van Vleck 	USA	Male
+1976	Chemistry	 William Lipscomb 	USA	Male
+1976	Economics	 Milton Friedman 	USA	Male
+1976	Literature	 Saul Bellow 	USA	Male
+1976	Medicine	 Baruch S. Blumberg 	USA	Male
+1976	Medicine	 D. Carleton Gajdusek 	USA	Male
+1976	Peace	 Mairead Corrigan 	UK	Female
+1976	Peace	 Betty Williams 	UK	Female
+1976	Physics	 Burton Richter 	USA	Male
+1976	Physics	 Samuel C.C. Ting 	USA	Male
+1975	Chemistry	 John Cornforth 	Australia, UK	Male
+1975	Chemistry	 Vladimir Prelog 	Switzerland	Male
+1975	Economics	 Leonid Vitaliyevich Kantorovich 	USSR	Male
+1975	Economics	 Tjalling C. Koopmans 	USA	Male
+1975	Literature	 Eugenio Montale 	Italy	Male
+1975	Medicine	 David Baltimore 	USA	Male
+1975	Medicine	 Renato Dulbecco 	USA	Male
+1975	Medicine	 Howard M. Temin 	USA	Male
+1975	Peace	 Andrei Sakharov 	USSR	Male
+1975	Physics	 Aage N. Bohr 	Denmark	Male
+1975	Physics	 Ben R. Mottelson 	Denmark	Male
+1975	Physics	 James Rainwater 	USA	Male
+1974	Chemistry	 Paul J. Flory 	USA	Male
+1974	Economics	 Gunnar Myrdal 	Sweden	Male
+1974	Economics	 Friedrich August von Hayek 	UK	Male
+1974	Literature	 Eyvind Johnson 	Sweden	Male
+1974	Literature	 Harry Martinson 	Sweden	Male
+1974	Medicine	 Albert Claude 	Belgium	Male
+1974	Medicine	 Christian de Duve 	Belgium	Male
+1974	Medicine	 George E. Palade 	USA	Male
+1974	Peace	 Sean MacBride 	Ireland	Male
+1974	Peace	 Eisaku Sato 	Japan	Male
+1974	Physics	 Antony Hewish 	UK	Male
+1974	Physics	 Martin Ryle 	UK	Male
+1973	Chemistry	 Ernst Otto Fischer 	Germany	Male
+1973	Chemistry	 Geoffrey Wilkinson 	UK	Male
+1973	Economics	 Wassily Leontief 	USA	Male
+1973	Literature	 Patrick White 	Australia	Male
+1973	Medicine	 Konrad Lorenz 	Austria	Male
+1973	Medicine	 Nikolaas Tinbergen 	UK	Male
+1973	Medicine	 Karl von Frisch 	Germany	Male
+1973	Peace	 Le Duc Tho 	Vietnam	Male
+1973	Peace	 Henry Kissinger 	USA	Male
+1973	Physics	 Leo Esaki 	Japan	Male
+1973	Physics	 Ivar Giaever 	USA	Male
+1973	Physics	 Brian D. Josephson 	UK	Male
+1972	Chemistry	 Christian Anfinsen 	USA	Male
+1972	Chemistry	 Stanford Moore 	USA	Male
+1972	Chemistry	 William H. Stein 	USA	Male
+1972	Economics	 Kenneth J. Arrow 	USA	Male
+1972	Economics	 John R. Hicks 	UK	Male
+1972	Literature	 Heinrich Boll 	Germany	Male
+1972	Medicine	 Gerald M. Edelman 	USA	Male
+1972	Medicine	 Rodney R. Porter 	UK	Male
+1972	Physics	 John Bardeen 	USA	Male
+1972	Physics	 Leon N. Cooper 	USA	Male
+1972	Physics	 Robert Schrieffer 	USA	Male
+1971	Chemistry	 Gerhard Herzberg 	Canada	Male
+1971	Economics	 Simon Kuznets 	USA	Male
+1971	Literature	 Pablo Neruda 	Chile	Male
+1971	Medicine	 Earl W. Sutherland, Jr.	USA	Male
+1971	Peace	 Willy Brandt 	Germany	Male
+1971	Physics	 Dennis Gabor 	UK	Male
+1970	Chemistry	 Luis Leloir 	Argentina	Male
+1970	Economics	 Paul A. Samuelson 	USA	Male
+1970	Literature	 Alexandr Solzhenitsyn 	USSR	Male
+1970	Medicine	 Julius Axelrod 	USA	Male
+1970	Medicine	 Sir Bernard Katz 	UK	Male
+1970	Medicine	 Ulf von Euler 	Sweden	Male
+1970	Peace	 Norman Borlaug 	USA	Male
+1970	Physics	 Hannes Alfven 	Sweden	Male
+1970	Physics	 Louis Neel 	France	Male
+1969	Chemistry	 Derek Barton 	UK	Male
+1969	Chemistry	 Odd Hassel 	Norway	Male
+1969	Economics	 Ragnar Frisch 	Norway	Male
+1969	Economics	 Jan Tinbergen 	Netherlands	Male
+1969	Literature	 Samuel Beckett 	Ireland	Male
+1969	Medicine	 Max Delbruck 	USA	Male
+1969	Medicine	 Alfred D. Hershey 	USA	Male
+1969	Medicine	 Salvador E. Luria 	USA	Male
+1969	Peace	 International Labour Organization 	Switzerland	Organization
+1969	Physics	 Murray Gell-Mann 	USA	Male
+1968	Chemistry	 Lars Onsager 	USA	Male
+1968	Literature	 Yasunari Kawabata 	Japan	Male
+1968	Medicine	 Robert W. Holley 	USA	Male
+1968	Medicine	 H. Gobind Khorana 	USA	Male
+1968	Medicine	 Marshall W. Nirenberg 	USA	Male
+1968	Peace	 Rene Cassin 	France	Male
+1968	Physics	 Luis Alvarez 	USA	Male
+1967	Chemistry	 Manfred Eigen 	Germany	Male
+1967	Chemistry	 Ronald G.W. Norrish 	UK	Male
+1967	Chemistry	 George Porter 	UK	Male
+1967	Literature	 Miguel Angel Asturias 	Guatemala	Male
+1967	Medicine	 Ragnar Granit 	Sweden	Male
+1967	Medicine	 Haldan K. Hartline 	USA	Male
+1967	Medicine	 George Wald 	USA	Male
+1967	Physics	 Hans Bethe 	USA	Male
+1966	Chemistry	 Robert S. Mulliken 	USA	Male
+1966	Literature	 Shmuel Agnon 	Israel	Male
+1966	Literature	 Nelly Sachs 	Sweden	Female
+1966	Medicine	 Charles B. Huggins 	USA	Male
+1966	Medicine	 Peyton Rous 	USA	Male
+1966	Physics	 Alfred Kastler 	France	Male
+1965	Chemistry	 Robert B. Woodward 	USA	Male
+1965	Literature	 Mikhail Sholokhov 	USSR	Male
+1965	Medicine	 Francois Jacob 	France	Male
+1965	Medicine	 Andre Lwoff 	France	Male
+1965	Medicine	 Jacques Monod 	France	Male
+1965	Peace	 United Nations Children's Fund 	USA	Organization
+1965	Physics	 Richard P. Feynman 	USA	Male
+1965	Physics	 Julian Schwinger 	USA	Male
+1965	Physics	 Sin-Itiro Tomonaga 	Japan	Male
+1964	Chemistry	 Dorothy Crowfoot Hodgkin 	UK	Female
+1964	Literature	 Jean-Paul Sartre 	France	Male
+1964	Medicine	 Konrad Bloch 	USA	Male
+1964	Medicine	 Feodor Lynen 	Germany	Male
+1964	Peace	 Martin Luther King Jr. 	USA	Male
+1964	Physics	 Nicolay G. Basov 	USSR	Male
+1964	Physics	 Aleksandr M. Prokhorov 	USSR	Male
+1964	Physics	 Charles H. Townes 	USA	Male
+1963	Chemistry	 Giulio Natta 	Italy	Male
+1963	Chemistry	 Karl Ziegler 	Germany	Male
+1963	Literature	 Giorgos Seferis 	Greece	Male
+1963	Medicine	 Sir John Eccles 	Australia	Male
+1963	Medicine	 Alan L. Hodgkin 	UK	Male
+1963	Medicine	 Andrew F. Huxley 	UK	Male
+1963	Peace	 International Committee of the Red Cross 	Switzerland	Organization
+1963	Peace	 League of Red Cross Societies 	Switzerland	Organization
+1963	Physics	 Maria Goeppert-Mayer 	USA	Female
+1963	Physics	 J. Hans D. Jensen 	Germany	Male
+1963	Physics	 Eugene Wigner 	USA	Male
+1962	Chemistry	 John C. Kendrew 	UK	Male
+1962	Chemistry	 Max F. Perutz 	UK	Male
+1962	Literature	 John Steinbeck 	USA	Male
+1962	Medicine	 Francis Crick 	UK	Male
+1962	Medicine	 James Watson 	USA	Male
+1962	Medicine	 Maurice Wilkins 	UK, New Zealand	Male
+1962	Peace	 Linus Pauling 	USA	Male
+1962	Physics	 Lev Landau 	USSR	Male
+1961	Chemistry	 Melvin Calvin 	USA	Male
+1961	Literature	 Ivo Andric 	Yugoslavia	Male
+1961	Medicine	 Georg von Bekesy 	USA	Male
+1961	Peace	 Dag Hammarskjold 	Sweden	Male
+1961	Physics	 Robert Hofstadter 	USA	Male
+1961	Physics	 Rudolf Mossbauer 	Germany	Male
+1960	Chemistry	 Willard F. Libby 	USA	Male
+1960	Literature	 Saint-John Perse 	France	Male
+1960	Medicine	 Sir Frank Macfarlane Burnet 	Australia	Male
+1960	Medicine	 Peter Medawar 	UK	Male
+1960	Peace	 Albert Lutuli 	South Africa	Male
+1960	Physics	 Donald A. Glaser 	USA	Male
+1959	Chemistry	 Jaroslav Heyrovsky 	Czechoslovakia	Male
+1959	Literature	 Salvatore Quasimodo 	Italy	Male
+1959	Medicine	 Arthur Kornberg 	USA	Male
+1959	Medicine	 Severo Ochoa 	USA	Male
+1959	Peace	 Philip Noel-Baker 	UK	Male
+1959	Physics	 Owen Chamberlain 	USA	Male
+1959	Physics	 Emilio Segre 	USA	Male
+1958	Chemistry	 Frederick Sanger 	UK	Male
+1958	Literature	 Boris Pasternak 	USSR	Male
+1958	Medicine	 George Beadle 	USA	Male
+1958	Medicine	 Joshua Lederberg 	USA	Male
+1958	Medicine	 Edward Tatum 	USA	Male
+1958	Peace	 Georges Pire 	Belgium	Male
+1958	Physics	 Pavel A. Cherenkov 	USSR	Male
+1958	Physics	 Il??ja M. Frank 	USSR	Male
+1958	Physics	 Igor Y. Tamm 	USSR	Male
+1957	Chemistry	 Lord Todd 	UK	Male
+1957	Literature	 Albert Camus 	France	Male
+1957	Medicine	 Daniel Bovet 	Italy	Male
+1957	Peace	 Lester Bowles Pearson 	Canada	Male
+1957	Physics	 Tsung-Dao Lee 	China	Male
+1957	Physics	 Chen Ning Yang 	China	Male
+1956	Chemistry	 Sir Cyril Hinshelwood 	UK	Male
+1956	Chemistry	 Nikolay Semenov 	USSR	Male
+1956	Literature	 Juan Ramon Jimenez 	Spain	Male
+1956	Medicine	 Andre F. Cournand 	USA	Male
+1956	Medicine	 Werner Forssmann 	Germany	Male
+1956	Medicine	 Dickinson W. Richards 	USA	Male
+1956	Physics	 John Bardeen 	USA	Male
+1956	Physics	 Walter H. Brattain 	USA	Male
+1956	Physics	 William B. Shockley 	USA	Male
+1955	Chemistry	 Vincent du Vigneaud 	USA	Male
+1955	Literature	 Halldor Laxness 	Iceland	Male
+1955	Medicine	 Hugo Theorell 	Sweden	Male
+1955	Physics	 Polykarp Kusch 	USA	Male
+1955	Physics	 Willis E. Lamb 	USA	Male
+1954	Chemistry	 Linus Pauling 	USA	Male
+1954	Literature	 Ernest Hemingway 	USA	Male
+1954	Medicine	 John F. Enders 	USA	Male
+1954	Medicine	 Frederick C. Robbins 	USA	Male
+1954	Medicine	 Thomas H. Weller 	USA	Male
+1954	Peace	 Office of the United Nations High Commissioner for Refugees 	Switzerland	Organization
+1954	Physics	 Max Born 	UK	Male
+1954	Physics	 Walther Bothe 	Germany	Male
+1953	Chemistry	 Hermann Staudinger 	Germany	Male
+1953	Literature	 Winston Churchill 	UK	Male
+1953	Medicine	 Hans Krebs 	UK	Male
+1953	Medicine	 Fritz Lipmann 	USA	Male
+1953	Peace	 George C. Marshall 	USA	Male
+1953	Physics	 Frits Zernike 	Netherlands	Male
+1952	Chemistry	 Archer J.P. Martin 	UK	Male
+1952	Chemistry	 Richard L.M. Synge 	UK	Male
+1952	Literature	 Francois Mauriac 	France	Male
+1952	Medicine	 Selman A. Waksman 	USA	Male
+1952	Peace	 Albert Schweitzer 	France	Male
+1952	Physics	 Felix Bloch 	USA	Male
+1952	Physics	 E. M. Purcell 	USA	Male
+1951	Chemistry	 Edwin M. McMillan 	USA	Male
+1951	Chemistry	 Glenn T. Seaborg 	USA	Male
+1951	Literature	 Par Lagerkvist 	Sweden	Male
+1951	Medicine	 Max Theiler 	South Africa	Male
+1951	Peace	 Leon Jouhaux 	France	Male
+1951	Physics	 John Cockcroft 	UK	Male
+1951	Physics	 Ernest T.S. Walton 	Ireland	Male
+1950	Chemistry	 Kurt Alder 	Germany	Male
+1950	Chemistry	 Otto Diels 	Germany	Male
+1950	Literature	 Bertrand Russell 	UK	Male
+1950	Medicine	 Philip S. Hench 	USA	Male
+1950	Medicine	 Edward C. Kendall 	USA	Male
+1950	Medicine	 Tadeus Reichstein 	Switzerland	Male
+1950	Peace	 Ralph Bunche 	USA	Male
+1950	Physics	 Cecil Powell 	UK	Male
+1949	Chemistry	 William F. Giauque 	USA	Male
+1949	Literature	 William Faulkner 	USA	Male
+1949	Medicine	 Walter Hess 	Switzerland	Male
+1949	Medicine	 Egas Moniz 	Portugal	Male
+1949	Peace	 Lord Boyd Orr 	UK	Male
+1949	Physics	 Hideki Yukawa 	Japan	Male
+1948	Chemistry	 Arne Tiselius 	Sweden	Male
+1948	Literature	 T.S. Eliot 	UK	Male
+1948	Medicine	 Paul Muller 	Switzerland	Male
+1948	Physics	 Patrick M.S. Blackett 	UK	Male
+1947	Chemistry	 Sir Robert Robinson 	UK	Male
+1947	Literature	 Andre Gide 	France	Male
+1947	Medicine	 Carl Cori 	USA	Male
+1947	Medicine	 Gerty Cori 	USA	Female
+1947	Medicine	 Bernardo Houssay 	Argentina	Male
+1947	Peace	 Friends Service Council 	UK	Organization
+1947	Peace	 American Friends Service Committee 	USA	Organization
+1947	Physics	 Edward V. Appleton 	UK	Male
+1946	Chemistry	 John H. Northrop 	USA	Male
+1946	Chemistry	 Wendell M. Stanley 	USA	Male
+1946	Chemistry	 James B. Sumner 	USA	Male
+1946	Literature	 Hermann Hesse 	Switzerland	Male
+1946	Medicine	 Hermann J. Muller 	USA	Male
+1946	Peace	 Emily Greene Balch 	USA	Female
+1946	Peace	 John R. Mott 	USA	Male
+1946	Physics	 Percy W. Bridgman 	USA	Male
+1945	Chemistry	 Artturi Virtanen 	Finland	Male
+1945	Literature	 Gabriela Mistral 	Chile	Female
+1945	Medicine	 Ernst B. Chain 	UK	Male
+1945	Medicine	 Sir Alexander Fleming 	UK	Male
+1945	Medicine	 Sir Howard Florey 	Australia	Male
+1945	Peace	 Cordell Hull 	USA	Male
+1945	Physics	 Wolfgang Pauli 	Austria	Male
+1944	Chemistry	 Otto Hahn 	Germany	Male
+1944	Literature	 Johannes V. Jensen 	Denmark	Male
+1944	Medicine	 Joseph Erlanger 	USA	Male
+1944	Medicine	 Herbert S. Gasser 	USA	Male
+1944	Peace	 International Committee of the Red Cross 	Switzerland	Organization
+1944	Physics	 Isidor Isaac Rabi 	USA	Male
+1943	Chemistry	 George de Hevesy 	Hungary	Male
+1943	Medicine	 Henrik Dam 	Denmark	Male
+1943	Medicine	 Edward A. Doisy 	USA	Male
+1943	Physics	 Otto Stern 	USA	Male
+1939	Chemistry	 Adolf Butenandt 	Germany	Male
+1939	Chemistry	 Leopold Ruzicka 	Switzerland	Male
+1939	Literature	 Frans Eemil Sillanpaa 	Finland	Male
+1939	Medicine	 Gerhard Domagk 	Germany	Male
+1939	Physics	 Ernest Lawrence 	USA	Male
+1938	Chemistry	 Richard Kuhn 	Germany	Male
+1938	Literature	 Pearl Buck 	USA	Female
+1938	Medicine	 Corneille Heymans 	Belgium	Male
+1938	Peace	 Nansen International Office for Refugees 	Switzerland	Organization
+1938	Physics	 Enrico Fermi 	Italy	Male
+1937	Chemistry	 Norman Haworth 	UK	Male
+1937	Chemistry	 Paul Karrer 	Switzerland	Male
+1937	Literature	 Roger Martin du Gard 	France	Male
+1937	Medicine	 Albert Szent-Gyorgyi 	Hungary	Male
+1937	Peace	 Robert Cecil 	UK	Male
+1937	Physics	 Clinton Davisson 	USA	Male
+1937	Physics	 George Paget Thomson 	UK	Male
+1936	Chemistry	 Peter Debye 	Netherlands	Male
+1936	Literature	 Eugene O'Neill 	USA	Male
+1936	Medicine	 Sir Henry Dale 	UK	Male
+1936	Medicine	 Otto Loewi 	Austria	Male
+1936	Peace	 Carlos Saavedra Lamas 	Argentina	Male
+1936	Physics	 Carl D. Anderson 	USA	Male
+1936	Physics	 Victor F. Hess 	Austria	Male
+1935	Chemistry	 Frederic Joliot 	France	Male
+1935	Chemistry	 Irene Joliot-Curie 	France	Female
+1935	Medicine	 Hans Spemann 	Germany	Male
+1935	Peace	 Carl von Ossietzky 	Germany	Male
+1935	Physics	 James Chadwick 	UK	Male
+1934	Chemistry	 Harold C. Urey 	USA	Male
+1934	Literature	 Luigi Pirandello 	Italy	Male
+1934	Medicine	 George R. Minot 	USA	Male
+1934	Medicine	 William P. Murphy 	USA	Male
+1934	Medicine	 George H. Whipple 	USA	Male
+1934	Peace	 Arthur Henderson 	UK	Male
+1933	Literature	 Ivan Bunin 	France	Male
+1933	Medicine	 Thomas H. Morgan 	USA	Male
+1933	Peace	 Sir Norman Angell 	UK	Male
+1933	Physics	 Paul A.M. Dirac 	UK	Male
+1933	Physics	 Erwin Schrodinger 	Austria	Male
+1932	Chemistry	 Irving Langmuir 	USA	Male
+1932	Literature	 John Galsworthy 	UK	Male
+1932	Medicine	 Edgar Adrian 	UK	Male
+1932	Medicine	 Sir Charles Sherrington 	UK	Male
+1932	Physics	 Werner Heisenberg 	Germany	Male
+1931	Chemistry	 Friedrich Bergius 	Germany	Male
+1931	Chemistry	 Carl Bosch 	Germany	Male
+1931	Literature	 Erik Axel Karlfeldt 	Sweden	Male
+1931	Medicine	 Otto Warburg 	Germany	Male
+1931	Peace	 Jane Addams 	USA	Female
+1931	Peace	 Nicholas Murray Butler 	USA	Male
+1930	Chemistry	 Hans Fischer 	Germany	Male
+1930	Literature	 Sinclair Lewis 	USA	Male
+1930	Medicine	 Karl Landsteiner 	Austria	Male
+1930	Peace	 Nathan Soderblom 	Sweden	Male
+1930	Physics	 Sir Venkata Raman 	India	Male
+1929	Chemistry	 Arthur Harden 	UK	Male
+1929	Chemistry	 Hans von Euler-Chelpin 	Sweden	Male
+1929	Literature	 Thomas Mann 	Germany	Male
+1929	Medicine	 Christiaan Eijkman 	Netherlands	Male
+1929	Medicine	 Sir Frederick Hopkins 	UK	Male
+1929	Peace	 Frank B. Kellogg 	USA	Male
+1929	Physics	 Louis de Broglie 	France	Male
+1928	Chemistry	 Adolf Windaus 	Germany	Male
+1928	Literature	 Sigrid Undset 	Norway	Female
+1928	Medicine	 Charles Nicolle 	France	Male
+1928	Physics	 Owen Willans Richardson 	UK	Male
+1927	Chemistry	 Heinrich Wieland 	Germany	Male
+1927	Literature	 Henri Bergson 	France	Male
+1927	Medicine	 Julius Wagner-Jauregg 	Austria	Male
+1927	Peace	 Ferdinand Buisson 	France	Male
+1927	Peace	 Ludwig Quidde 	Germany	Male
+1927	Physics	 Arthur H. Compton 	USA	Male
+1927	Physics	 C.T.R. Wilson 	UK	Male
+1926	Chemistry	 The Svedberg 	Sweden	Male
+1926	Literature	 Grazia Deledda 	Italy	Female
+1926	Medicine	 Johannes Fibiger 	Denmark	Male
+1926	Peace	 Aristide Briand 	France	Male
+1926	Peace	 Gustav Stresemann 	Germany	Male
+1926	Physics	 Jean Baptiste Perrin 	France	Male
+1925	Chemistry	 Richard Zsigmondy 	Germany	Male
+1925	Literature	 George Bernard Shaw 	UK	Male
+1925	Peace	 Sir Austen Chamberlain 	UK	Male
+1925	Peace	 Charles G. Dawes 	USA	Male
+1925	Physics	 James Franck 	Germany	Male
+1925	Physics	 Gustav Hertz 	Germany	Male
+1924	Literature	 Wladyslaw Reymont 	Poland	Male
+1924	Medicine	 Willem Einthoven 	Netherlands	Male
+1924	Physics	 Manne Siegbahn 	Sweden	Male
+1923	Chemistry	 Fritz Pregl 	Austria	Male
+1923	Literature	 William Butler Yeats 	Ireland	Male
+1923	Medicine	 Frederick G. Banting 	Canada	Male
+1923	Medicine	 John Macleod 	Canada	Male
+1923	Physics	 Robert A. Millikan 	USA	Male
+1922	Chemistry	 Francis W. Aston 	UK	Male
+1922	Literature	 Jacinto Benavente 	Spain	Male
+1922	Medicine	 Archibald V. Hill 	UK	Male
+1922	Medicine	 Otto Meyerhof 	Germany	Male
+1922	Peace	 Fridtjof Nansen 	Norway	Male
+1922	Physics	 Niels Bohr 	Denmark	Male
+1921	Chemistry	 Frederick Soddy 	UK	Male
+1921	Literature	 Anatole France 	France	Male
+1921	Peace	 Hjalmar Branting 	Sweden	Male
+1921	Peace	 Christian Lange 	Norway	Male
+1921	Physics	 Albert Einstein 	Germany, Switzerland	Male
+1920	Chemistry	 Walther Nernst 	Germany	Male
+1920	Literature	 Knut Hamsun 	Norway	Male
+1920	Medicine	 August Krogh 	Denmark	Male
+1920	Peace	 Leon Bourgeois 	France	Male
+1920	Physics	 Charles Edouard Guillaume 	Switzerland	Male
+1919	Literature	 Carl Spitteler 	Switzerland	Male
+1919	Medicine	 Jules Bordet 	Belgium	Male
+1919	Peace	 Woodrow Wilson 	USA	Male
+1919	Physics	 Johannes Stark 	Germany	Male
+1918	Chemistry	 Fritz Haber 	Germany	Male
+1918	Physics	 Max Planck 	Germany	Male
+1917	Literature	 Karl Gjellerup 	Denmark	Male
+1917	Literature	 Henrik Pontoppidan 	Denmark	Male
+1917	Peace	 International Committee of the Red Cross 	Switzerland	Organization
+1917	Physics	 Charles Glover Barkla 	UK	Male
+1916	Literature	 Verner von Heidenstam 	Sweden	Male
+1915	Chemistry	 Richard Willstatter 	Germany	Male
+1915	Literature	 Romain Rolland 	France	Male
+1915	Physics	 William Bragg 	UK	Male
+1915	Physics	 Lawrence Bragg 	UK	Male
+1914	Chemistry	 Theodore W. Richards 	USA	Male
+1914	Medicine	 Robert Barany 	Austria	Male
+1914	Physics	 Max von Laue 	Germany	Male
+1913	Chemistry	 Alfred Werner 	Switzerland	Male
+1913	Literature	 Rabindranath Tagore 	India	Male
+1913	Medicine	 Charles Richet 	France	Male
+1913	Peace	 Henri La Fontaine 	Belgium	Male
+1913	Physics	 Heike Kamerlingh Onnes 	Netherlands	Male
+1912	Chemistry	 Victor Grignard 	France	Male
+1912	Chemistry	 Paul Sabatier 	France	Male
+1912	Literature	 Gerhart Hauptmann 	Germany	Male
+1912	Medicine	 Alexis Carrel 	France	Male
+1912	Peace	 Elihu Root 	USA	Male
+1912	Physics	 Gustaf Dalen 	Sweden	Male
+1911	Chemistry	 Marie Curie 	France	Female
+1911	Literature	 Maurice Maeterlinck 	Belgium	Male
+1911	Medicine	 Allvar Gullstrand 	Sweden	Male
+1911	Peace	 Tobias Asser 	Netherlands	Male
+1911	Peace	 Alfred Fried 	Austria	Male
+1911	Physics	 Wilhelm Wien 	Germany	Male
+1910	Chemistry	 Otto Wallach 	Germany	Male
+1910	Literature	 Paul Heyse 	Germany	Male
+1910	Medicine	 Albrecht Kossel 	Germany	Male
+1910	Peace	 Permanent International Peace Bureau 	Switzerland	Organization
+1910	Physics	 Johannes Diderik van der Waals 	Netherlands	Male
+1909	Chemistry	 Wilhelm Ostwald 	Germany	Male
+1909	Literature	 Selma Lagerlof 	Sweden	Female
+1909	Medicine	 Theodor Kocher 	Switzerland	Male
+1909	Peace	 Auguste Beernaert 	Belgium	Male
+1909	Peace	 Paul Henri d'Estournelles de Constant 	France	Male
+1909	Physics	 Ferdinand Braun 	Germany	Male
+1909	Physics	 Guglielmo Marconi 	Italy	Male
+1908	Chemistry	 Ernest Rutherford 	UK, New Zealand	Male
+1908	Literature	 Rudolf Eucken 	Germany	Male
+1908	Medicine	 Paul Ehrlich 	Germany	Male
+1908	Medicine	 Ilya Mechnikov 	Russia	Male
+1908	Peace	 Klas Pontus Arnoldson 	Sweden	Male
+1908	Peace	 Fredrik Bajer 	Denmark	Male
+1908	Physics	 Gabriel Lippmann 	France	Male
+1907	Chemistry	 Eduard Buchner 	Germany	Male
+1907	Literature	 Rudyard Kipling 	UK	Male
+1907	Medicine	 Alphonse Laveran 	France	Male
+1907	Peace	 Ernesto Teodoro Moneta 	Italy	Male
+1907	Peace	 Louis Renault 	France	Male
+1907	Physics	 Albert A. Michelson 	USA	Male
+1906	Chemistry	 Henri Moissan 	France	Male
+1906	Literature	 Giosue Carducci 	Italy	Male
+1906	Medicine	 Camillo Golgi 	Italy	Male
+1906	Medicine	 Santiago Ramon y Cajal 	Spain	Male
+1906	Peace	 Theodore Roosevelt 	USA	Male
+1906	Physics	 J.J. Thomson 	UK	Male
+1905	Chemistry	 Adolf von Baeyer 	Germany	Male
+1905	Literature	 Henryk Sienkiewicz 	Poland	Male
+1905	Medicine	 Robert Koch 	Germany	Male
+1905	Peace	 Bertha von Suttner 	Austria	Female
+1905	Physics	 Philipp Lenard 	Germany	Male
+1904	Chemistry	 Sir William Ramsay 	UK	Male
+1904	Literature	 Jose Echegaray 	Spain	Male
+1904	Literature	 Frederic Mistral 	France	Male
+1904	Medicine	 Ivan Pavlov 	Russia	Male
+1904	Peace	 Institute of International Law 	Belgium	Organization
+1904	Physics	 Lord Rayleigh 	UK	Male
+1903	Chemistry	 Svante Arrhenius 	Sweden	Male
+1903	Literature	 Bjornstjerne Bjornson 	Norway	Male
+1903	Medicine	 Niels Ryberg Finsen 	Denmark	Male
+1903	Peace	 Randal Cremer 	UK	Male
+1903	Physics	 Henri Becquerel 	France	Male
+1903	Physics	 Pierre Curie 	France	Male
+1903	Physics	 Marie Curie 	France	Female
+1902	Chemistry	 Emil Fischer 	Germany	Male
+1902	Literature	 Theodor Mommsen 	Germany	Male
+1902	Medicine	 Ronald Ross 	UK	Male
+1902	Peace	 Elie Ducommun 	Switzerland	Male
+1902	Peace	 Albert Gobat 	Switzerland	Male
+1902	Physics	 Hendrik A. Lorentz 	Netherlands	Male
+1902	Physics	 Pieter Zeeman 	Netherlands	Male
+1901	Chemistry	 Jacobus H. van 't Hoff 	Netherlands	Male
+1901	Literature	 Sully Prudhomme 	France	Male
+1901	Medicine	 Emil von Behring 	Germany	Male
+1901	Peace	 Henry Dunant 	Switzerland	Male
+1901	Peace	 Frederic Passy 	France	Male
+1901	Physics	 Wilhelm Conrad Rontgen 	Germany	Male

@@ -1,0 +1,904 @@
+{
+  "result": [
+    {
+      "mid": "/m/0245_v",
+      "name": "Chiyonofuji Mitsugu",
+      "type": "/people/person",
+      "date_of_birth": "1955-06-01",
+      "height_meters": 1.83,
+      "weight_kg": 126,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0286lq",
+      "name": "Akebono Tarō",
+      "type": "/people/person",
+      "date_of_birth": "1969-05-08",
+      "height_meters": 2.03,
+      "weight_kg": 233,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/028mbf",
+      "name": "Takanohana Kōji",
+      "type": "/people/person",
+      "date_of_birth": "1972-08-12",
+      "height_meters": 1.83,
+      "weight_kg": 150,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/028z2v",
+      "name": "Asashōryū Akinori",
+      "type": "/people/person",
+      "date_of_birth": "1980-09-27",
+      "height_meters": 1.84,
+      "weight_kg": 154,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0291_9",
+      "name": "Musashimaru Kōyō",
+      "type": "/people/person",
+      "date_of_birth": "1971-05-02",
+      "height_meters": 1.92,
+      "weight_kg": 235,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/03d_03",
+      "name": "Konishiki Yasokichi",
+      "type": "/people/person",
+      "date_of_birth": "1963-12-31",
+      "height_meters": 1.84,
+      "weight_kg": 275,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/03wv0m",
+      "name": "Kitanoumi Toshimitsu",
+      "type": "/people/person",
+      "date_of_birth": "1953-05-16",
+      "height_meters": 1.79,
+      "weight_kg": 169,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/040qzd",
+      "name": "Wakanohana Masaru",
+      "type": "/people/person",
+      "date_of_birth": "1971-01-20",
+      "height_meters": 1.8,
+      "weight_kg": 134,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/05b51l",
+      "name": "Buyūzan Takeyoshi",
+      "type": "/people/person",
+      "date_of_birth": "1974-07-29",
+      "height_meters": 1.8,
+      "weight_kg": 163,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/05bgl0",
+      "name": "Hananosato Yukio",
+      "type": "/people/person",
+      "date_of_birth": "1983-05-08",
+      "height_meters": 1.78,
+      "weight_kg": 118,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/05jvlk",
+      "name": "John Tenta",
+      "type": "/people/person",
+      "date_of_birth": "1963-06-22",
+      "height_meters": 2.01,
+      "weight_kg": 212,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/06729_",
+      "name": "Genichiro Tenryu",
+      "type": "/people/person",
+      "date_of_birth": "1950-02-02",
+      "height_meters": 1.89,
+      "weight_kg": 120,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/069g43",
+      "name": "Takanohana Toshiaki",
+      "type": "/people/person",
+      "date_of_birth": "1950-02-19",
+      "height_meters": 1.83,
+      "weight_kg": 114,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/06_qwm",
+      "name": "Kotoōshū Katsunori",
+      "type": "/people/person",
+      "date_of_birth": "1983-02-19",
+      "height_meters": 2.02,
+      "weight_kg": 157,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/07bp9l",
+      "name": "Kōji Kitao",
+      "type": "/people/person",
+      "date_of_birth": "1963-08-12",
+      "height_meters": 2.01,
+      "weight_kg": 157,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/07s9vb",
+      "name": "Baruto Kaito",
+      "type": "/people/person",
+      "date_of_birth": "1984-11-05",
+      "height_meters": 1.97,
+      "weight_kg": 193,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/07wtbs",
+      "name": "Kaidō Yasuhiro",
+      "type": "/people/person",
+      "date_of_birth": "1975-10-24",
+      "height_meters": 1.78,
+      "weight_kg": 152,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/07y36l",
+      "name": "Kyokutenhō Masaru",
+      "type": "/people/person",
+      "date_of_birth": "1974-09-13",
+      "height_meters": 1.91,
+      "weight_kg": 160,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/08zk0r",
+      "name": "Kaiō Hiroyuki",
+      "type": "/people/person",
+      "date_of_birth": "1972-07-24",
+      "height_meters": 1.85,
+      "weight_kg": 164,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0b0zwq",
+      "name": "Tochiazuma Daisuke",
+      "type": "/people/person",
+      "date_of_birth": "1976-11-09",
+      "height_meters": 1.8,
+      "weight_kg": 155,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0bvx4q",
+      "name": "Takeshi Rikio",
+      "type": "/people/person",
+      "date_of_birth": "1972-12-20",
+      "height_meters": 1.91,
+      "weight_kg": 153,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0c39cy",
+      "name": "Tōki Susumu",
+      "type": "/people/person",
+      "date_of_birth": "1974-07-04",
+      "height_meters": 1.89,
+      "weight_kg": 165,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0c3dj8",
+      "name": "Chiyotaikai Ryūji",
+      "type": "/people/person",
+      "date_of_birth": "1976-04-29",
+      "height_meters": 1.8,
+      "weight_kg": 145,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0c99jw",
+      "name": "Hakuhō Shō",
+      "type": "/people/person",
+      "date_of_birth": "1985-03-11",
+      "height_meters": 1.92,
+      "weight_kg": 154,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0f16zr",
+      "name": "Emmanuel Yarborough",
+      "type": "/people/person",
+      "date_of_birth": "1964-09-05",
+      "height_meters": 2.03,
+      "weight_kg": 270,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0f9rp2",
+      "name": "Teila Tuli",
+      "type": "/people/person",
+      "date_of_birth": "1969-06-14",
+      "height_meters": 1.88,
+      "weight_kg": 197,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0fc3fj",
+      "name": "Hokuten'yū Katsuhiko",
+      "type": "/people/person",
+      "date_of_birth": "1960-08-08",
+      "height_meters": 1.83,
+      "weight_kg": 149,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0fq794",
+      "name": "Rohō Yukio",
+      "type": "/people/person",
+      "date_of_birth": "1980-03-09",
+      "height_meters": 1.95,
+      "weight_kg": 146,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/026qkpr",
+      "name": "Asahifuji Seiya",
+      "type": "/people/person",
+      "date_of_birth": "1960-07-06",
+      "height_meters": 1.89,
+      "weight_kg": 143,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/026r_vt",
+      "name": "Ōnokuni Yasushi",
+      "type": "/people/person",
+      "date_of_birth": "1962-10-09",
+      "height_meters": 1.89,
+      "weight_kg": 203,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/026spn2",
+      "name": "Hokutoumi Nobuyoshi",
+      "type": "/people/person",
+      "date_of_birth": "1963-06-22",
+      "height_meters": 1.81,
+      "weight_kg": 151,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/026v16s",
+      "name": "Kotonishiki Katsuhiro",
+      "type": "/people/person",
+      "date_of_birth": "1968-06-08",
+      "height_meters": 1.76,
+      "weight_kg": 131.5,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/026w5t3",
+      "name": "Takanosato Toshihide",
+      "type": "/people/person",
+      "date_of_birth": "1952-09-29",
+      "height_meters": 1.815,
+      "weight_kg": 158.5,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/026xswd",
+      "name": "Takatōriki Tadashige",
+      "type": "/people/person",
+      "date_of_birth": "1967-09-28",
+      "height_meters": 1.8,
+      "weight_kg": 145.5,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0274624",
+      "name": "Sentoryū Henri",
+      "type": "/people/person",
+      "date_of_birth": "1969-07-16",
+      "height_meters": 1.755,
+      "weight_kg": 136,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/027tckv",
+      "name": "Kotomitsuki Keiji",
+      "type": "/people/person",
+      "date_of_birth": "1976-04-11",
+      "height_meters": 1.81,
+      "weight_kg": 159,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/027xg3y",
+      "name": "Kirishima Kazuhiro",
+      "type": "/people/person",
+      "date_of_birth": "1959-04-03",
+      "height_meters": 1.87,
+      "weight_kg": 130,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/027xgbg",
+      "name": "Hokutōriki Hideki",
+      "type": "/people/person",
+      "date_of_birth": "1977-10-31",
+      "height_meters": 1.82,
+      "weight_kg": 136,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/027xk1v",
+      "name": "Shunketsu Yūji",
+      "type": "/people/person",
+      "date_of_birth": "1976-07-13",
+      "height_meters": 1.76,
+      "weight_kg": 122,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/027xvj1",
+      "name": "Aminishiki Ryūji",
+      "type": "/people/person",
+      "date_of_birth": "1978-10-03",
+      "height_meters": 1.86,
+      "weight_kg": 152,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/027xvjr",
+      "name": "Harumafuji Kōhei",
+      "type": "/people/person",
+      "date_of_birth": "1984-04-14",
+      "height_meters": 1.86,
+      "weight_kg": 133,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/027xvks",
+      "name": "Asōfuji Seiya",
+      "type": "/people/person",
+      "date_of_birth": "1976-01-17",
+      "height_meters": 1.81,
+      "weight_kg": 123,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/027y5f8",
+      "name": "Kyokushūzan Noboru",
+      "type": "/people/person",
+      "date_of_birth": "1973-03-08",
+      "height_meters": 1.8,
+      "weight_kg": 141,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/027y616",
+      "name": "Miyabiyama Tetsushi",
+      "type": "/people/person",
+      "date_of_birth": "1977-07-28",
+      "height_meters": 1.86,
+      "weight_kg": 183,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/027y7d7",
+      "name": "Chiyotenzan Daihachirō",
+      "type": "/people/person",
+      "date_of_birth": "1976-02-06",
+      "height_meters": 1.83,
+      "weight_kg": 137,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/027_7pc",
+      "name": "Wakanohana Kanji II",
+      "type": "/people/person",
+      "date_of_birth": "1953-04-03",
+      "height_meters": 1.88,
+      "weight_kg": 135,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02804y0",
+      "name": "Kisenosato Yutaka",
+      "type": "/people/person",
+      "date_of_birth": "1986-07-03",
+      "height_meters": 1.88,
+      "weight_kg": 176,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0281tqr",
+      "name": "Dejima Takeharu",
+      "type": "/people/person",
+      "date_of_birth": "1974-03-21",
+      "height_meters": 1.8,
+      "weight_kg": 162,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0282hlv",
+      "name": "Terao Tsunefumi",
+      "type": "/people/person",
+      "date_of_birth": "1963-02-02",
+      "height_meters": 1.86,
+      "weight_kg": 117,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/028429f",
+      "name": "Musōyama Masashi",
+      "type": "/people/person",
+      "date_of_birth": "1972-02-14",
+      "height_meters": 1.835,
+      "weight_kg": 175,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02842j9",
+      "name": "Takanonami Sadahiro",
+      "type": "/people/person",
+      "date_of_birth": "1971-10-27",
+      "height_meters": 1.96,
+      "weight_kg": 160,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0285g5b",
+      "name": "Asasekiryū Tarō",
+      "type": "/people/person",
+      "date_of_birth": "1981-08-07",
+      "height_meters": 1.84,
+      "weight_kg": 147,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0285k3f",
+      "name": "Iwakiyama Ryūta",
+      "type": "/people/person",
+      "date_of_birth": "1976-03-02",
+      "height_meters": 1.84,
+      "weight_kg": 144,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0285m98",
+      "name": "Takamisakari Seiken",
+      "type": "/people/person",
+      "date_of_birth": "1976-05-12",
+      "height_meters": 1.88,
+      "weight_kg": 138,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0285mz7",
+      "name": "Hakurozan Yūta",
+      "type": "/people/person",
+      "date_of_birth": "1982-02-06",
+      "height_meters": 1.88,
+      "weight_kg": 137,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0285px4",
+      "name": "Kokkai Futoshi",
+      "type": "/people/person",
+      "date_of_birth": "1981-03-10",
+      "height_meters": 1.9,
+      "weight_kg": 150,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0285qsp",
+      "name": "Hōmashō Noriyuki",
+      "type": "/people/person",
+      "date_of_birth": "1981-04-16",
+      "height_meters": 1.85,
+      "weight_kg": 149,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0285_5x",
+      "name": "Kotoshōgiku Kazuhiro",
+      "type": "/people/person",
+      "date_of_birth": "1984-01-30",
+      "height_meters": 1.8,
+      "weight_kg": 177,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/028647w",
+      "name": "Tosanoumi Toshio",
+      "type": "/people/person",
+      "date_of_birth": "1972-02-16",
+      "height_meters": 1.85,
+      "weight_kg": 141,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0286b74",
+      "name": "Futen'ō Izumi",
+      "type": "/people/person",
+      "date_of_birth": "1980-08-28",
+      "height_meters": 1.81,
+      "weight_kg": 152,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/0287nf3",
+      "name": "Kakizoe Tōru",
+      "type": "/people/person",
+      "date_of_birth": "1978-08-12",
+      "height_meters": 1.76,
+      "weight_kg": 138,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02888cd",
+      "name": "Tochinonada Taiichi",
+      "type": "/people/person",
+      "date_of_birth": "1974-02-26",
+      "height_meters": 1.86,
+      "weight_kg": 160,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/028b6ng",
+      "name": "Tokitenkū Yoshiaki",
+      "type": "/people/person",
+      "date_of_birth": "1979-09-10",
+      "height_meters": 1.86,
+      "weight_kg": 143,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02pj6sh",
+      "name": "Aotsurugi Kenta",
+      "type": "/people/person",
+      "date_of_birth": "1982-12-16",
+      "height_meters": 1.825,
+      "weight_kg": 124.5,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02pj6tj",
+      "name": "Kyokutenzan Takeshi",
+      "type": "/people/person",
+      "date_of_birth": "1973-08-04",
+      "height_meters": 1.86,
+      "weight_kg": 81,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02qhjkg",
+      "name": "Sakahoko Nobushige",
+      "type": "/people/person",
+      "date_of_birth": "1961-06-18",
+      "height_meters": 1.82,
+      "weight_kg": 124,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rl854",
+      "name": "Toyonoshima Daiki",
+      "type": "/people/person",
+      "date_of_birth": "1983-06-26",
+      "height_meters": 1.68,
+      "weight_kg": 145,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rnngy",
+      "name": "Tamanoshima Arata",
+      "type": "/people/person",
+      "date_of_birth": "1977-09-15",
+      "height_meters": 1.86,
+      "weight_kg": 161,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rnzm3",
+      "name": "Ōtsukasa Nobuhide",
+      "type": "/people/person",
+      "date_of_birth": "1971-02-18",
+      "height_meters": 1.74,
+      "weight_kg": 152,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rp899",
+      "name": "Mitoizumi Masayuki",
+      "type": "/people/person",
+      "date_of_birth": "1962-09-02",
+      "height_meters": 1.94,
+      "weight_kg": 163,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rsjln",
+      "name": "Wakanosato Shinobu",
+      "type": "/people/person",
+      "date_of_birth": "1976-07-10",
+      "height_meters": 1.84,
+      "weight_kg": 161,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rsqqp",
+      "name": "Kotonowaka Terumasa",
+      "type": "/people/person",
+      "date_of_birth": "1968-05-15",
+      "height_meters": 1.91,
+      "weight_kg": 181,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rsrbz",
+      "name": "Tamakasuga Ryōji",
+      "type": "/people/person",
+      "date_of_birth": "1972-01-07",
+      "height_meters": 1.825,
+      "weight_kg": 157,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rtptm",
+      "name": "Takekaze Akira",
+      "type": "/people/person",
+      "date_of_birth": "1979-06-21",
+      "height_meters": 1.7,
+      "weight_kg": 144,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rtx5d",
+      "name": "Tokitsuumi Masahiro",
+      "type": "/people/person",
+      "date_of_birth": "1973-11-08",
+      "height_meters": 1.83,
+      "weight_kg": 132,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rtygj",
+      "name": "Kakuryū Rikisaburō",
+      "type": "/people/person",
+      "date_of_birth": "1985-08-10",
+      "height_meters": 1.86,
+      "weight_kg": 146,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rtyh6",
+      "name": "Kasugaō Katsumasa",
+      "type": "/people/person",
+      "date_of_birth": "1977-07-01",
+      "height_meters": 1.83,
+      "weight_kg": 148,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rtyk8",
+      "name": "Kasuganishiki Takahiro",
+      "type": "/people/person",
+      "date_of_birth": "1975-08-22",
+      "height_meters": 1.88,
+      "weight_kg": 152,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rtymp",
+      "name": "Ryūō Noboru",
+      "type": "/people/person",
+      "date_of_birth": "1983-03-11",
+      "height_meters": 1.76,
+      "weight_kg": 142,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rtysh",
+      "name": "Tochiōzan Yūichirō",
+      "type": "/people/person",
+      "date_of_birth": "1987-03-09",
+      "height_meters": 1.88,
+      "weight_kg": 152,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rv6g4",
+      "name": "Satoyama Kōsaku",
+      "type": "/people/person",
+      "date_of_birth": "1981-05-31",
+      "height_meters": 1.76,
+      "weight_kg": 120,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rvhgh",
+      "name": "Ushiomaru Motoyasu",
+      "type": "/people/person",
+      "date_of_birth": "1978-05-11",
+      "height_meters": 1.77,
+      "weight_kg": 165,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rvhvk",
+      "name": "Tochinohana Hitoshi",
+      "type": "/people/person",
+      "date_of_birth": "1973-02-28",
+      "height_meters": 1.84,
+      "weight_kg": 144,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rvhxz",
+      "name": "Yoshikaze Masatsugu",
+      "type": "/people/person",
+      "date_of_birth": "1982-03-19",
+      "height_meters": 1.76,
+      "weight_kg": 138,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rvjz9",
+      "name": "Shimotori Norio",
+      "type": "/people/person",
+      "date_of_birth": "1978-03-18",
+      "height_meters": 1.88,
+      "weight_kg": 147,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rwk2y",
+      "name": "Hōchiyama Kōkan",
+      "type": "/people/person",
+      "date_of_birth": "1982-01-18",
+      "height_meters": 1.87,
+      "weight_kg": 154,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rwl04",
+      "name": "Kotofuji Takaya",
+      "type": "/people/person",
+      "date_of_birth": "1964-10-28",
+      "height_meters": 1.92,
+      "weight_kg": 150,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rwpz1",
+      "name": "Ichinoya Mitsuru",
+      "type": "/people/person",
+      "date_of_birth": "1960-12-28",
+      "height_meters": 1.65,
+      "weight_kg": 98.5,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02rx650",
+      "name": "Kaihō Ryōji",
+      "type": "/people/person",
+      "date_of_birth": "1973-04-17",
+      "height_meters": 1.77,
+      "weight_kg": 121,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02r_7l2",
+      "name": "Kitazakura Hidetoshi",
+      "type": "/people/person",
+      "date_of_birth": "1971-12-15",
+      "height_meters": 1.89,
+      "weight_kg": 156.1,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02r_8dx",
+      "name": "Toyohibiki Ryūta",
+      "type": "/people/person",
+      "date_of_birth": "1984-11-16",
+      "height_meters": 1.85,
+      "weight_kg": 182,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02vlm7r",
+      "name": "Jūmonji Tomokazu",
+      "type": "/people/person",
+      "date_of_birth": "1976-06-09",
+      "height_meters": 1.84,
+      "weight_kg": 160,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02vln4z",
+      "name": "Takanowaka Yūki",
+      "type": "/people/person",
+      "date_of_birth": "1976-04-02",
+      "height_meters": 1.9,
+      "weight_kg": 149,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02vm9tk",
+      "name": "Hoshitango Imachi",
+      "type": "/people/person",
+      "date_of_birth": "1965-09-05",
+      "height_meters": 1.83,
+      "weight_kg": 140,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02vn701",
+      "name": "Wakashimazu Mutsuo",
+      "type": "/people/person",
+      "date_of_birth": "1957-01-12",
+      "height_meters": 1.88,
+      "weight_kg": 125,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02vn7qr",
+      "name": "Asashio Tarō IV",
+      "type": "/people/person",
+      "date_of_birth": "1955-12-09",
+      "height_meters": 1.83,
+      "weight_kg": 186,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02vncr1",
+      "name": "Tagaryū Shōji",
+      "type": "/people/person",
+      "date_of_birth": "1958-02-15",
+      "height_meters": 1.78,
+      "weight_kg": 142,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02vnqlq",
+      "name": "Kotokaze Kōki",
+      "type": "/people/person",
+      "date_of_birth": "1957-04-26",
+      "height_meters": 1.835,
+      "weight_kg": 173,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02vq0h3",
+      "name": "Akinoshima Katsumi",
+      "type": "/people/person",
+      "date_of_birth": "1967-03-16",
+      "height_meters": 1.75,
+      "weight_kg": 158,
+      "/people/person/profession": "Sumo Wrestler"
+    },
+    {
+      "mid": "/m/02vrldt",
+      "name": "Toyozakura Toshiaki",
+      "type": "/people/person",
+      "date_of_birth": "1974-03-12",
+      "height_meters": 1.81,
+      "weight_kg": 136,
+      "/people/person/profession": "Sumo Wrestler"
+    }
+  ]
+}
